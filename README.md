@@ -1,5 +1,5 @@
 # 🐱 Cat Photo App
-I completed my *first project* of a course I'm taking on freeCodeCamp [Responsive Web Design](https://www.freecodecamp.org/learn/).
+I just completed my *first project* of a course I'm taking on freeCodeCamp [Responsive Web Design](https://www.freecodecamp.org/learn/).
 It is a fully responsive and simple webpage built with HTML that displays, cat photos, some information about them and a short form.
 ## What I practiced with the Cat Photo App:
 * ✔️Basic HTML structure(headings, body, pararaphs, links, lists).
@@ -23,4 +23,4 @@ It is a fully responsive and simple webpage built with HTML that displays, cat p
 * Completing the next project in the course I'm taking(*cafe menu*).
 * Gradually completing the course and earning a certificate.
 * Continuous building and uploading my proojects to GitHub.
-#### *Built with 🤍 by [Princess Yvonne Eshun](https://github.com/Yvonne719)*
+#### *Built with 🤍 by [Princess Yvonne Eshun](https://github.com/Yvonne719)*.
